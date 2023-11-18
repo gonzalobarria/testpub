@@ -86,6 +86,11 @@
         "internalType": "uint8",
         "name": "_level",
         "type": "uint8"
+      },
+      {
+        "internalType": "string",
+        "name": "_dataUri",
+        "type": "string"
       }
     ],
     "name": "addSheet",
@@ -323,6 +328,11 @@
             "internalType": "uint8",
             "name": "difficulty",
             "type": "uint8"
+          },
+          {
+            "internalType": "string",
+            "name": "dataUri",
+            "type": "string"
           }
         ],
         "internalType": "struct ProdigyPianoDiary.Sheet",
@@ -353,6 +363,11 @@
             "internalType": "uint8",
             "name": "difficulty",
             "type": "uint8"
+          },
+          {
+            "internalType": "string",
+            "name": "dataUri",
+            "type": "string"
           }
         ],
         "internalType": "struct ProdigyPianoDiary.Sheet[]",
